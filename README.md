@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou a Joyce Dias! 👋
 
-<!--
-**xJoyceDias/xJoyceDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software, com foco em desenvolvimento backend, automação de processos e integração de sistemas.
 
-Here are some ideas to get you started:
+## Tecnologias
+Python • FastAPI • .NET • C# • React • TypeScript • SQL • SQLite • APIs REST • OAuth 2.0
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+
+### Star Limp Business
+Sistema de gestão comercial em produção, criado para atender uma necessidade real de negócio.
+
+- Backend em Python e FastAPI
+- Integração com ERP Bling via API REST e OAuth 2.0
+- Automação de vendas, estoque, pedidos e comunicação via WhatsApp
+- [Ver projeto](https://github.com/xJoyceDias/star-limp-ia) • [Acessar demonstração](https://star-limp-ia.onrender.com/)
+
+### Controle de Gastos Residenciais
+Aplicação full stack para controle financeiro.
+
+- .NET 8, ASP.NET Core, React, TypeScript e SQLite
+- Testes automatizados com xUnit
+- [Ver projeto](https://github.com/xJoyceDias/controle-gastos-residenciais)
+
+## Contato
+[LinkedIn](https://www.linkedin.com/in/joyce-dias-96058619b/) • GitHub: @xJoyceDias
