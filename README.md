@@ -1,7 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=500&color=F79BB0&width=435&lines=%E2%9A%A1+Backend+Developer+passionate+about+Cloud+Computing+and+Software+Engineering)](https://git.io/typing-svg)
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=500&color=F7B4C1&width=435&lines=%E2%9A%A1+Backend+Developer+passionate+about+Cloud+Computing+and+Software+Engineering)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/joyce-dias-96058619b">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
