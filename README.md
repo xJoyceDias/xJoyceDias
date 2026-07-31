@@ -1,3 +1,5 @@
+https://readme-typing-svg.demolab.com/demo/?font=fira+code&pause=1500&color=F48FB19E&background=FFF9F900&width=700&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Joyce+Dias++;Software+Engineer;Backend+Developer;Java+%E2%80%A2+Python+%E2%80%A2+FastAPI;Building+scalable+backend+solutions;Always+learning+something+new+%F0%9F%9A%80
+
 # Olá, eu sou a Joyce Dias! 👋
 
 Estudante de Engenharia de Software, com foco em desenvolvimento backend, automação de processos e integração de sistemas.
