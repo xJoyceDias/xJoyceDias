@@ -1,8 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&pause=700&color=F48FB19E&background=FFF9F900&width=700&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Joyce+Dias++;Software+Engineer;Backend+Developer;Java+%E2%80%A2+Python+%E2%80%A2+FastAPI;Building+scalable+backend+solutions;Always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-# Olá, eu sou a Joyce Dias! 👋
-
-Estudante de Engenharia de Software, com foco em desenvolvimento backend, automação de processos e integração de sistemas.
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,docker,git,github,mysql,sqlite,linux,vscode,idea,postman&perline=7" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6F61?style=for-the-badge&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/>
+</p>
 
 ## Tecnologias
 Python • FastAPI • .NET • C# • React • TypeScript • SQL • SQLite • APIs REST • OAuth 2.0
