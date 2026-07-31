@@ -29,13 +29,17 @@ I'm constantly improving my skills in backend architecture, cloud technologies, 
 
 ## ⭐ Featured Projects
 
+<p align="center">
+
 <a href="https://github.com/xJoyceDias/StarLimpIA">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=xJoyceDias&repo=StarLimpIA&theme=rose_pine&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xJoyceDias&repo=StarLimpIA&theme=rose_pine&hide_border=true"/>
 </a>
 
 <a href="https://github.com/xJoyceDias/controle-gastos-residenciais">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=xJoyceDias&repo=controle-gastos-residenciais&theme=rose_pine&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xJoyceDias&repo=controle-gastos-residenciais&theme=rose_pine&hide_border=true"/>
 </a>
+
+</p>
 
 ### 🌟 Star Limp Business
 
@@ -93,6 +97,12 @@ https://github.com/xJoyceDias/controle-gastos-residenciais
 </p>
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xJoyceDias/xJoyceDias/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ## 📫 Connect with Me
 
