@@ -26,7 +26,7 @@ Building real-world web applications with Python, FastAPI and REST APIs.
 
 ---
 
-# 👋 About Me
+#  About Me
 
 I'm a Software Engineering student passionate about building backend applications that solve real business problems.
 
@@ -38,7 +38,7 @@ I'm looking for opportunities as a **Backend Engineer** or **Software Engineer**
 
 ---
 
-# 🎯 Current Focus
+#  Current Focus
 
 - Backend Development
 - Python
@@ -49,7 +49,7 @@ I'm looking for opportunities as a **Backend Engineer** or **Software Engineer**
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Backend
 
@@ -79,7 +79,7 @@ I'm looking for opportunities as a **Backend Engineer** or **Software Engineer**
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ## ⭐ Star Limp Business
 
@@ -115,29 +115,6 @@ A backend-focused application developed for a real business operation.
 
 <a href="https://star-limp-ia.onrender.com/">
 <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-## 💳 NGB Bank
-
-**Banking Web Application**
-
-Academic project simulating digital banking operations.
-
-### Technologies
-
-- React
-- JavaScript
-- HTML
-- CSS
-
-<p>
-
-<a href="https://github.com/xJoyceDias/ngb-bank">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -180,7 +157,7 @@ Repository focused on Java programming fundamentals, algorithms and object-orien
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 - Cloud Computing (FIAP)
 - Software Architecture
@@ -191,7 +168,7 @@ Repository focused on Java programming fundamentals, algorithms and object-orien
 
 ---
 
-# 📈 GitHub Activity
+#  GitHub Activity
 
 <p align="center">
 
@@ -213,7 +190,7 @@ Repository focused on Java programming fundamentals, algorithms and object-orien
 
 ---
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 <p>
 
