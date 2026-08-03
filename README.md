@@ -1,102 +1,209 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=500&color=F7B4C1&width=435&lines=%E2%9A%A1+Backend+Developer+passionate+about+Cloud+Computing+and+Software+Engineering)](https://git.io/typing-svg)
+
+# Joyce Dias
+
+### Backend Engineer • Software Engineering Student
+
+Building real-world web applications with Python, FastAPI and REST APIs.
+
+<p>
+
+<a href="https://github.com/xJoyceDias">
+<img src="https://img.shields.io/badge/GitHub-xJoyceDias-181717?style=for-the-badge&logo=github"/>
+</a>
 
 <a href="https://www.linkedin.com/in/joyce-dias-96058619b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Joyce%20Dias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:SEU_EMAIL@EMAIL.COM">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
 
 </div>
 
 ---
 
-<table>
-<tr>
+# 👋 About Me
 
-<td width="60%" valign="top">
+I'm a Software Engineering student passionate about building backend applications that solve real business problems.
 
-## 💜 About Me
+Currently I develop **Star Limp Business**, a commercial management web application created for a real business operation. In this project I work on backend development using **Python** and **FastAPI**, implementing REST APIs, ERP integration, OAuth 2.0 authentication, database modeling and continuous application improvements.
 
-🌎 Goiânia, Goiás - Brazil
+Alongside software development, I'm studying **Cloud Computing at FIAP**, expanding my knowledge in Linux, software architecture and cloud fundamentals.
 
-🎓 Software Engineering Student
-
-⚡ Backend Developer passionate about software development
-
-🎯 Focus on Java, Spring Boot, Python, FastAPI, SQL and Cloud Computing
-
-✨ Building real-world applications to improve my skills and create impactful solutions
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="profile-card.png" width="280"/>
-
-</td>
-
-</tr>
-</table>
+I'm looking for opportunities as a **Backend Engineer** or **Software Engineer**, contributing to scalable applications, API integrations and real-world products.
 
 ---
 
-## 🛠 Languages & Tools
+# 🎯 Current Focus
 
-<p align="center">
+- Backend Development
+- Python
+- FastAPI
+- REST APIs
+- Software Engineering
+- Cloud Computing (FIAP)
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,docker,git,github,mysql,sqlite,linux,vscode,idea,postman,cs,dotnet,react,ts&perline=6"/>
+---
+
+# 🛠 Tech Stack
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,mysql,sqlite,git,github,linux,postman"/>
 
 </p>
 
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,ts,html,css"/>
+
+</p>
+
+### Currently Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,aws"/>
+
+</p>
+
+> **Currently studying Cloud Computing through FIAP. Docker and AWS are part of my learning roadmap.**
+
 ---
 
-## ⭐ Featured Projects
+# 🚀 Featured Projects
 
-### 🌟 Star Limp Business
+## ⭐ Star Limp Business
 
-Business management platform developed for a real company.
+**Commercial Management Web Application**
 
-**Python • FastAPI • SQLite • REST API • OAuth 2.0 • Bling ERP**
+A backend-focused application developed for a real business operation.
 
-<a href="https://github.com/xJoyceDias/star-limp-ia">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+### Technologies
+
+- Python
+- FastAPI
+- SQLite
+- REST APIs
+- OAuth 2.0
+- Git
+
+### Highlights
+
+- Backend architecture with FastAPI
+- REST API development
+- OAuth 2.0 authentication
+- ERP (Bling) integration
+- Customer management
+- Product management
+- Sales and financial control
+- Dashboard and reports
+
+<p>
+
+<a href="https://github.com/xJoyceDias/StarLimpIA">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://star-limp-ia.onrender.com/">
 <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
 </a>
 
+</p>
+
 ---
 
-### 💰 Residential Expense Manager
+## 💳 NGB Bank
 
-Financial management application developed with .NET and React.
+**Banking Web Application**
 
-**.NET 8 • ASP.NET Core • React • TypeScript • SQLite**
+Academic project simulating digital banking operations.
+
+### Technologies
+
+- React
+- JavaScript
+- HTML
+- CSS
+
+<p>
+
+<a href="https://github.com/xJoyceDias/ngb-bank">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+## 💰 Residential Expense Manager
+
+Personal finance management application.
+
+### Technologies
+
+- .NET 8
+- ASP.NET Core
+- React
+- TypeScript
+- SQLite
+
+<p>
 
 <a href="https://github.com/xJoyceDias/controle-gastos-residenciais">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+
+</p>
 
 ---
 
-### ☕ Java Logic Programming
+## ☕ Java Programming
 
-Repository dedicated to Java programming logic and object-oriented programming.
+Repository focused on Java programming fundamentals, algorithms and object-oriented programming.
 
-**Java • Algorithms • OOP**
+<p>
 
 <a href="https://github.com/xJoyceDias/java-logica-programacao">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+# 📚 Currently Learning
+
+- Cloud Computing (FIAP)
+- Software Architecture
+- Spring Boot
+- Docker
+- AWS Fundamentals
+- Linux
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=xJoyceDias&show_icons=true&hide_border=true&include_all_commits=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xJoyceDias&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Graph
 
 <p align="center">
 
@@ -106,16 +213,16 @@ Repository dedicated to Java programming logic and object-oriented programming.
 
 ---
 
-## 📫 Let's Connect
+# 🤝 Let's Connect
 
-<p align="center">
+<p>
 
 <a href="https://www.linkedin.com/in/joyce-dias-96058619b">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:SEU_EMAIL@EMAIL.COM">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
